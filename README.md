@@ -1,1 +1,1 @@
-# welcome_window
+# ventana-de-bienvenida
